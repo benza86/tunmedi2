@@ -12,7 +12,8 @@
         "arguments":[
           "http://medooappli.xyz/hiw1.html"
         ]
-      },       
+      },   
+	   
 	      {
         "title":"LIVE",
         "provider":"webview",
@@ -92,8 +93,14 @@
           "http://medooappli.xyz/ramadan.html"
         ]
       }
-	   
-	
+	   ,
+	     {
+        "title":"update",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/update.html"
+        ]
+      }
 	  
 	  
     ]
